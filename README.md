@@ -3,6 +3,8 @@
 ### Linux实现socks终端代理、全局代理
 `https://cloud.tencent.com/developer/article/1852590`
 
+git clone --recurse-submodules https://github.com/project-chip/connectedhomeip.git -b v1.1-branch
+
 ### arm版本lighting-app编译
 gn gen out --args='target_cpu="arm64" target_os="linux"'
 
